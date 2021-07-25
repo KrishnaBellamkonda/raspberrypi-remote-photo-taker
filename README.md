@@ -45,13 +45,13 @@ captured is displayed directly in the webpage.
 
 ### Application in Action
 * Website 
-<img src="demonstration_images/website_photo.png"><img/>
+<img src="demonstration_pictures/website_photo.png"><img/>
 * Website on clicking Capture 
-<img src="demonstration_images/picture_taken_photo.png"><img/>
+<img src="demonstration_pictures/picture_taken_photo.png"><img/>
 * Photo 
-<img src="demonstration_images/sample_picture.jpg"><img/>
+<img src="demonstration_pictures/sample_picture.jpg"><img/>
 * Raspberry Pi setup 
-<img src="demonstration_images/raspberrypi_setup.jpeg"><img/>
+<img src="demonstration_pictures/raspberrypi_setup.jpeg"><img/>
 
 
 
