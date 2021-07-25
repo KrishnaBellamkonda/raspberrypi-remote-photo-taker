@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "await-exec": "^0.1.2",
     "express": "^4.17.1"
   }
 }

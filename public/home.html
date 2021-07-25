@@ -5,26 +5,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Photo Taker</title>
+    <link rel="stylesheet" href="./home.css">
+    
 </head>
 <body>
     
-    <h1>Photo Taker</h1>
-    <section class="description">
-        <article>
-            Press the button to take a photo
+    <h1 class="container">Photo Taker</h1>
+    <section class="description container">
+        <article class="description-article">
+            <h3>Description</h2>
+            <p>
+                Take a picture on raspberrypi using click the Capture button.
+                Within a few seconds, the picture will be displayed below. If repeated
+                snapshot requests are sent, a prompt saying 'wait a few seconds' appears. You
+                can take the screenshot after about 3 seoconds. The images will be saved locally
+                in raspberrypi 'raspberrypi-photo-taker/public/images' folder.
+            </p>
         </article>
     </section>
 
-    <section class="button-section">
+    <section class="button-section container">
+        <h3>Capture Button</h3>
         <button id="button">Capture</button>
     </section>
 
-    <section class="photo-section">
-
+    <section class="photo-section container">
+        <h3>Picture</h3>
+        <img id="photo" src="/default.png" alt="picture-of-raspberry-screenhot" >
     </section>
 
 
-    <script src=""></script>
+    <script src="/home.js"></script>
 
 </body>
 </html>
