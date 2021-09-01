@@ -1,7 +1,9 @@
 # This python script is used to capture images  
 
-# Trial Version takes in random photos from web and 
+# Test Version takes in random photos from web and 
 # saves them here 
+
+# THIS IS NOT THE TRIAL VERSION
 #import requests
 import os
 import json 
